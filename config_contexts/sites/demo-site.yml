@@ -1,2 +1,4 @@
 ---
+_metadata:
+  name: "Config parameters for Demo"
 device_value03: "value01"
